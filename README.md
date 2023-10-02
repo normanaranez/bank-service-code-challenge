@@ -1,6 +1,7 @@
 # BankServiceCodeChallenge
 
 ## Steps to run the project
+    * To clone the project run this command from git `git clone git@github.com:normanaranez/bank-service-code-challenge.git`
     * npm install
     * follow the command below
 
