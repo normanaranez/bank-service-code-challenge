@@ -1,6 +1,6 @@
 # BankServiceCodeChallenge
 
-# Steps to run the project
+## Steps to run the project
     * npm install
     * follow the command below
 
